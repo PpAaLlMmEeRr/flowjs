@@ -1,3 +1,6 @@
+background:
+I've been there. Constant feature changes. Complex workflows. The headache of updating automation scripts for every little tweak. It's enough to make you question if automation is worth it.
+
 # flowjs
 
 ## snap, a tool convert robotframework testcase to gojs, and execute via script-server+robotframework
